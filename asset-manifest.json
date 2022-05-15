@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/tester1/static/js/main.6943e782.chunk.js",
-    "main.js.map": "/tester1/static/js/main.6943e782.chunk.js.map",
-    "runtime-main.js": "/tester1/static/js/runtime-main.52ed9616.js",
-    "runtime-main.js.map": "/tester1/static/js/runtime-main.52ed9616.js.map",
-    "static/js/2.3a17a432.chunk.js": "/tester1/static/js/2.3a17a432.chunk.js",
-    "static/js/2.3a17a432.chunk.js.map": "/tester1/static/js/2.3a17a432.chunk.js.map",
-    "static/js/3.8fe1addc.chunk.js": "/tester1/static/js/3.8fe1addc.chunk.js",
-    "static/js/3.8fe1addc.chunk.js.map": "/tester1/static/js/3.8fe1addc.chunk.js.map",
-    "index.html": "/tester1/index.html",
-    "static/js/2.3a17a432.chunk.js.LICENSE.txt": "/tester1/static/js/2.3a17a432.chunk.js.LICENSE.txt",
-    "static/media/background-qa-ind.367de2af.png": "/tester1/static/media/background-qa-ind.367de2af.png",
-    "static/media/background-qa-ukr.abeb2155.png": "/tester1/static/media/background-qa-ukr.abeb2155.png",
-    "static/media/background-staging.6c29ebeb.png": "/tester1/static/media/background-staging.6c29ebeb.png",
-    "static/media/pr.107feede.png": "/tester1/static/media/pr.107feede.png"
+    "main.js": "/tester2/static/js/main.6943e782.chunk.js",
+    "main.js.map": "/tester2/static/js/main.6943e782.chunk.js.map",
+    "runtime-main.js": "/tester2/static/js/runtime-main.fc6ac3c7.js",
+    "runtime-main.js.map": "/tester2/static/js/runtime-main.fc6ac3c7.js.map",
+    "static/js/2.3a17a432.chunk.js": "/tester2/static/js/2.3a17a432.chunk.js",
+    "static/js/2.3a17a432.chunk.js.map": "/tester2/static/js/2.3a17a432.chunk.js.map",
+    "static/js/3.8fe1addc.chunk.js": "/tester2/static/js/3.8fe1addc.chunk.js",
+    "static/js/3.8fe1addc.chunk.js.map": "/tester2/static/js/3.8fe1addc.chunk.js.map",
+    "index.html": "/tester2/index.html",
+    "static/js/2.3a17a432.chunk.js.LICENSE.txt": "/tester2/static/js/2.3a17a432.chunk.js.LICENSE.txt",
+    "static/media/background-qa-ind.367de2af.png": "/tester2/static/media/background-qa-ind.367de2af.png",
+    "static/media/background-qa-ukr.abeb2155.png": "/tester2/static/media/background-qa-ukr.abeb2155.png",
+    "static/media/background-staging.6c29ebeb.png": "/tester2/static/media/background-staging.6c29ebeb.png",
+    "static/media/pr.107feede.png": "/tester2/static/media/pr.107feede.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.52ed9616.js",
+    "static/js/runtime-main.fc6ac3c7.js",
     "static/js/2.3a17a432.chunk.js",
     "static/js/main.6943e782.chunk.js"
   ]
